@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aalferea91
+- 👀 I’m interested in becoming a data scientist
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything in order to develop my skills
+- 📫 How to reach me: al.alferez.aroca@gmail.com
