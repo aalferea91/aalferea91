@@ -16,6 +16,8 @@ My name is Alejandro Alferez Aroca and I'm a graduated Industrial Engineer by th
 
 1. Redshift to Snowflake migrator **#tableau #xml #redshift #snowflake #python**
 
-2. Tableau workbooks and datasource publish automation **#python #bash #XML #tableau**
+2. Tableau datasource publish automation **#python #bash #XML #tableau**
 
-3. Additionally you can find some examples of my Tableau development work in my Tableau public profile: https://public.tableau.com/app/profile/alejandro5423/
+3. Tableau workbook publish automation **#python #bash #XML #tableau**
+
+4. Additionally you can find some examples of my Tableau development work in my Tableau public profile: https://public.tableau.com/app/profile/alejandro5423/
