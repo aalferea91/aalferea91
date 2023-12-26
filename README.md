@@ -3,17 +3,17 @@ My name is Alejandro Alferez Aroca and I'm a graduated Industrial Engineer by th
 
 # Data-Engineering
 
-1. Python and Pandas for Data Engineering #python #pandas #jupyternotebook: https://github.com/aalferea91/Python-for-Data-Engineering
+1. Python and Pandas for Data Engineering **#python #pandas #jupyternotebook**: https://github.com/aalferea91/Python-for-Data-Engineering
 
-2. Airlines data model #datamodel #sql: https://github.com/aalferea91/Airlines-Data-Model
+2. Airlines data model **#datamodel #sql**: https://github.com/aalferea91/Airlines-Data-Model
 
-3. Lambda Arquitecture #dataarchitecture #mongodb #flask #kafka #AWS #S3 #spark #EMR #streaming: https://github.com/aalferea91/Lambda-Architecture
+3. Lambda Arquitecture **#dataarchitecture #mongodb #flask #kafka #AWS #S3 #spark #EMR #streaming**: https://github.com/aalferea91/Lambda-Architecture
 
-4. TFM (Master's Final Project) - Cryptocurrency analysis and Bitcoin prediction model #AWS #lambda #S3 #athena #powerbi #python #jupyternotebook #API: https://github.com/aalferea91/cryptoTFM
+4. TFM (Master's Final Project) - Cryptocurrency analysis and Bitcoin prediction model **#AWS #lambda #S3 #athena #powerbi #python #jupyternotebook #API**: https://github.com/aalferea91/cryptoTFM
 
 
 # Tableau Development
 
-1. Redshift to Snowflake migrator #tableau #xml #redshift #snowflake #python
+1. Redshift to Snowflake migrator **#tableau #xml #redshift #snowflake #python**
 
-2. Tableau workbooks and datasource publish automation #python #bash #XML #tableau
+2. Tableau workbooks and datasource publish automation **#python #bash #XML #tableau**
